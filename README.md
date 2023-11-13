@@ -13,9 +13,7 @@ CSS Styling: A clean and intuitive layout with thoughtful styling for a seamless
 Installation
 Clone the repository:
 Copy code
-git clone https://github.com/sumeetbidhan/Blog.git
-
-
+git clone https://github.com/sumeetbidhan/MyBlog.git
 Open the project folder:
 Copy code
 cd blogharmony
