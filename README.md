@@ -1,5 +1,6 @@
 BlogHarmony
 
+Access the site: https://sumeetbidhan.github.io/MyBlog/
 
 
 BlogHarmony is a simple and elegant blog website created with HTML, CSS, and JavaScript. It aims to be a platform where diverse voices come together to share insights, stories, and experiences.
