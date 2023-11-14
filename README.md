@@ -7,7 +7,7 @@ Access the site: https://sumeetbidhan.github.io/MyBlog/
 
 ![BlogHarmony Screenshot](./BlogHarmony/assets/images/BlogHarmoy.png)
 
-![Signi page](./BlogHarmony/assets/images/signin.png)
+![Signin page](./BlogHarmony/assets/images/signin.png)
 
 
 
