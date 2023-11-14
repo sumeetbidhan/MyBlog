@@ -1,6 +1,15 @@
-BlogHarmony
+# BlogHarmony
+
+
+## Demo
 
 Access the site: https://sumeetbidhan.github.io/MyBlog/
+
+![BlogHarmony Screenshot](./BlogHarmony/assets/images/BlogHarmoy.png)
+
+![Signi page](./BlogHarmony/assets/images/signin.png)
+
+
 
 
 BlogHarmony is a simple and elegant blog website created with HTML, CSS, and JavaScript. It aims to be a platform where diverse voices come together to share insights, stories, and experiences.
@@ -11,7 +20,7 @@ Dynamic Content: JavaScript is used to enhance the user experience by adding dyn
 CSS Styling: A clean and intuitive layout with thoughtful styling for a seamless reading experience.
 
 
-Installation
+## Installation
 Clone the repository:
 Copy code
 git clone https://github.com/sumeetbidhan/MyBlog.git
@@ -21,11 +30,12 @@ cd blogharmony
 
 Open the index.html file in your preferred web browser.
 
-Usage
+## Usage
 Explore the blog content by navigating through different posts.
 Click on individual blog posts to read the full content.
 Interact with dynamic elements enhanced by JavaScript.
-Contributing
+
+## Contributing
 Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, please create an issue or submit a pull request.
 
 1 Fork the repository.
